@@ -26,7 +26,7 @@
                 guessesLeft = 9;                   
                 lettersChose = [];
     
-            const computerGuess = computerChoices[Math.floor(Math.random() * computerChoices.length)];
+       
         }
 
         document.onkeyup = function(event) {
