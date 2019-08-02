@@ -1,6 +1,7 @@
 
 body{
     background-color: antiquewhite
+    
 }
 
 h1 {
@@ -8,4 +9,8 @@ h1 {
     width: 600px;
     text-align: center
     
+}
+
+div.row{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
